@@ -1,0 +1,11 @@
+version: '3.5'
+
+services: 
+  gnatsd:
+    image: nats:1.3.0
+    container_name: gnatsd
+    ports: 
+      - "4222:4222"
+      - "8222:8222"
+      - "6222:6222"
+    restart: always
