@@ -46,3 +46,8 @@ http://localhost:8080/encoded
 ```
 
 
+### Download
+
+```
+go get -u github.com/prongbang/nats-mq
+```
