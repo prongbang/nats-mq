@@ -1,5 +1,9 @@
 # Install NATS Server Docker
 
+```
+docker-compose up -d
+```
+
 ### Start MQ
 
 ```
