@@ -3,4 +3,4 @@ start:
 clear:
 	docker system prune -a
 run:
-	go run main.go
+	go run example/main.go

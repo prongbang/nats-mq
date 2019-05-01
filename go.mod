@@ -1,4 +1,4 @@
-module nats
+module github.com/prongbang/nats-mq
 
 require (
 	github.com/nats-io/go-nats v1.6.0

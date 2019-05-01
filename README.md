@@ -33,18 +33,11 @@ http://localhost:8222
 make run
 ```
 
-### Test basic
+### Notification Promotion to App2
 
 ```
-http://localhost:8080/basic
+http://localhost:8081/api/v1/noti-promotion
 ```
-
-### Test encode
-
-```
-http://localhost:8080/encoded
-```
-
 
 ### Download
 
